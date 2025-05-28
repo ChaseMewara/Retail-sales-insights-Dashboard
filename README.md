@@ -20,5 +20,3 @@ An interactive Power BI dashboard that visualizes key retail sales metrics and t
 ## 📸 Dashboard Preview
 ![Dashboard Screenshot](assets/dashboard-preview.png)
 
-## 🔗 Live Project
-[GitHub Repository](https://github.com/ChaseMewara/Retail-sales-insights-Dashboard.git)
